@@ -15,7 +15,7 @@ body {
     justify-content: center;
     align-items: center;
     
-    margin: 56px auto;
+    margin: 56px auto 40px auto;
     gap: 100px;
 
 }
@@ -58,6 +58,6 @@ button {
     
     font-size: 18px;
     font-family: "CursedTimerUliL";
-    
+
     cursor: pointer;
 }
