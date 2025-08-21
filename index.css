@@ -1,0 +1,62 @@
+@font-face {
+    src: url("/Typeface/CursedTimerULiL.ttf");
+    font-family: CursedTimerUliL;
+}
+
+body {
+    margin: 24px auto;
+    background-color: #1B244A;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 56px auto;
+    gap: 100px;
+
+}
+
+h1 {
+    min-width: 155px;
+    height: 120px;
+    margin: 24px auto 24px auto;
+    padding-top: 8px;
+    
+    color: #F94F6D;
+    background-color: #080001;
+    border-radius: 5px;
+    
+    font-size: 80px;
+    font-family: "CursedTimerUliL";
+        
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3 {
+    color: #EEEEEE;
+    margin: 0 auto;
+     
+    font-size: 40px;
+    font-weight: bold;
+}
+
+button {
+    width: 45px;
+    height: 45px;
+        
+    color: #9AABD8;
+    background-color: transparent;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    
+    font-size: 18px;
+    font-family: "CursedTimerUliL";
+    
+     
+}
