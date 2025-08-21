@@ -39,3 +39,10 @@ function addguest3() {
 }
 
 
+function reset() {
+    home = 0
+    guest = 0
+    homeScore.textContent = home
+    guestScore.textContent = guest
+}
+
